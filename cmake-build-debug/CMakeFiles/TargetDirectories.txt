@@ -1,0 +1,3 @@
+C:/Users/Nay Thurain Tun/Desktop/CRUD/cmake-build-debug/CMakeFiles/CRUD.dir
+C:/Users/Nay Thurain Tun/Desktop/CRUD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nay Thurain Tun/Desktop/CRUD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
